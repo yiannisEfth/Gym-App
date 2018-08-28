@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Asf App</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_classes">Classes</string>
+    <string name="welcome">WELCOME</string>
+</resources>
